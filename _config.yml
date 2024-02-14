@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "JeongTae Kang"
+  name             : "Jeongtae Kang"
   avatar           : "profile.png" # I will update this picture *** (important)
   bio              : "B.S. student at Computer Engineering in Chosun University"
   location         : "Gwangju"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "dortustmxkxm@naver.com"
+  email            : "kjt@chosun.ac.kr"
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,10 +102,10 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/jeongtae-kang-45a5b82b4/"
   orcid            : "https://orcid.org/0009-0003-8095-8074"
   pinterest        :
-  soundcloud       :
+  soundcloud       : 
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
