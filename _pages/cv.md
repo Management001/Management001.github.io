@@ -57,3 +57,10 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+<!--
+# files에 너꺼 CV PDF 넣은 후, 아래 코드에서 mycv 부분만 너꺼 파일명으로 수정하면 됨
+# CV 파일 생성하는거는 김박사넷 MYCV 서비스 이용해서 PDF로 만들면 됨
+-->
+
+<embed src="{{ site.baseurl }}/files/mycv.pdf" width="600" height="700" type='application/pdf'>
